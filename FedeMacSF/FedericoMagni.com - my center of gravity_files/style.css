@@ -1,0 +1,209 @@
+html, body {
+	margin:0; padding:0;
+	height:100%;
+	font-family: "Lucida Grande", Lucida, Verdana, sans-serif;
+}
+
+body {
+	background-color: #424242;
+	background-image: url(/web/20110202185728im_/http://federicomagni.com/css/bg.jpg);
+}
+ 
+#floater {
+	position:relative; float:left;
+	height:50%;	margin-bottom:-223px;
+	width:1px;
+}
+ 
+#centered {
+	position:relative; clear:left;
+	height: 500px; width: 620px;
+	margin:0 auto;
+	padding: 0;
+	background: url(/web/20110202185728im_/http://federicomagni.com/css/Background.png) no-repeat;
+}
+
+/* @group Header */
+
+#header {
+	width: 620px;
+	height: 26px;
+	display: block;
+	color: #eaeaea;
+}
+
+#navbar {
+	float: right;
+	height: 26px;
+	margin-right: 10px;
+}
+
+#title {
+	float: left;
+	height: 26px;
+	margin-left: 10px;
+}
+
+#navbar p {
+	font-size: 18px;
+	line-height: 26px;
+	display: table-cell;
+	height: 26px;
+}
+
+#navbar p a:link, #navbar p a:visited, #title a:link, #title a:visited {
+	font-weight: normal;
+	font-style: normal;
+	color: #eaeaea;
+	text-decoration: none;
+}
+
+#navbar p a:hover, #title a:hover {
+	color: #a9a9a9;
+	background-color: transparent;
+}
+
+h1 {
+	font-size: 24px;
+	line-height: 26px;
+	display: table-cell;
+	font-weight: normal;
+	font-style: normal;
+	height: 26px;
+}
+
+/* @end */
+
+#contentbox {
+	clear: both;
+	width: 600px;
+	height: 400px;
+	padding: 10px;
+}
+
+#content,  #contentPortfolio {
+	background-color: #fffeff;
+	width: 600px;
+	height: 400px;
+}
+
+
+#content_text {
+	width: 500px;
+	height: 300px;
+	display: inline-block;
+	margin: 50px;
+	font-size: 14px;
+	color: #424242;
+	line-height: 18px;
+	letter-spacing: 1px;
+	word-spacing: 0;
+}
+
+#content_text h2 {
+	font-weight: bold;
+	font-size: 18px;
+	color: #757676;
+}
+
+.topH2 {
+	margin-top: -10px;
+}
+
+a:link, a:visited {
+	text-decoration: none;
+	color: #797979;
+	font-weight: normal;
+	font-style: normal;
+}
+
+a:hover {
+	text-decoration: none;
+	color: #3f4040;
+	font-weight: normal;
+	font-style: normal;
+	background-color: #d6d6d6;
+}
+
+#copyright {
+	color: #797979;
+	font-size: 10px;
+}
+
+#copyright a:link, #copyright a:visited {
+	color: #797979;
+	font-size: 10px;
+	font-weight: normal;
+	font-style: normal;
+}
+
+#onShow, .onShow {
+	display: none;
+}
+
+/* @group about me and portfolio */
+	
+#contentAbout {
+	width: 600px;
+	height: 400px;
+	background: #fffeff url(/web/20110202185728im_/http://federicomagni.com/css/picme.jpg) no-repeat right top;
+}
+	
+#contentPortfolio {
+	background: #fffeff url(/web/20110202185728im_/http://federicomagni.com/css/bg2.jpg) no-repeat 0 0;
+}
+	
+#portfolio h2{
+	margin: -10px -10px -10px 0;
+}
+	
+#portfolio p {
+	padding-top: 10px;
+}
+
+#about {
+	text-align: justify;
+}
+
+#picme {
+	width: 394px;
+	height: 273px;
+	display: block;
+}
+
+#content_text p, #content_text ul {
+	text-align: left;
+}
+
+#content_text li {
+	list-style-type: lower-greek;
+	list-style-position: outside;
+	margin-left: -15px;
+}
+
+#portfolio ul li a{
+	color: #424242;
+}
+
+/* @end */
+/*
+     FILE ARCHIVED ON 18:57:28 Feb 02, 2011 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 13:31:23 Jul 07, 2020.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  RedisCDXSource: 20.929
+  exclusion.robots: 0.212
+  LoadShardBlock: 76.154 (3)
+  exclusion.robots.policy: 0.195
+  PetaboxLoader3.resolve: 27.117
+  PetaboxLoader3.datanode: 183.274 (4)
+  CDXLines.iter: 12.246 (3)
+  esindex: 0.012
+  load_resource: 161.421
+  captures_list: 112.432
+*/
