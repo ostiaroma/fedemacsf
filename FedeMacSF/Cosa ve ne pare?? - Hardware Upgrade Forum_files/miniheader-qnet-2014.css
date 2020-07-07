@@ -1,0 +1,7 @@
+.external .header #Head {border-top:0; line-height:30px; height:30px; margin-top: -4px;}
+.external .header #Head .block1 { height: 40px; }
+.external .header #Head #Branding img { height:25px; margin-top:3px; }
+#PrimaryNavigation ul, #PrimaryNavigation ol {   list-style: none;    list-style-image: none; }
+#PrimaryNavigation ul li {   list-style: none;    list-style-image: none; }
+.lp_spettacolo select { box-sizing: border-box; -moz-box-sizing: border-box; border: 1px solid #bec3c7; padding: 6px; width: 100%; font-size: .9em; margin-bottom:10px;}
+.lp_spettacolo .vetrina_seratatv p {float: left;margin: 0;padding: 0 2% 10px 0;width: 48%;}
